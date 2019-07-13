@@ -6,6 +6,7 @@ ng generate component product-details
 
 ng generate service cart
 ng generate component cart
+ng generate component shipping
 
 #starting ng server with port 8002
 ng serve --port=8002
